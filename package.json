@@ -1,0 +1,24 @@
+{
+  "name": "publication-heuristics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "eval",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semantifyit/publication-heuristics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semantifyit/publication-heuristics/issues"
+  },
+  "homepage": "https://github.com/semantifyit/publication-heuristics#readme",
+  "dependencies": {
+    "excel4node": "^1.5.0",
+    "puppeteer": "^1.6.0-next.1532381444032",
+    "request-promise-native": "^1.0.5"
+  }
+}
